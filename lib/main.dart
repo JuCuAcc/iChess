@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
             } else if (result == -1)
               ...{}
             else ...{
-              const Text("Game Over"),
+              const Text("Game Over "),
             }
           ],
         ),
