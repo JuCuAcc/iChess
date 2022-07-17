@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            const Text("Chess Game"),
+            const Text("Chess Game "),
             if (result == 2) ...{
               const Text("Checked "),
             } else if (result == 1) ...{
