@@ -1,0 +1,4 @@
+#Sat Jul 16 17:23:39 BDT 2022
+base.0=E\:\\chess_jashim\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
